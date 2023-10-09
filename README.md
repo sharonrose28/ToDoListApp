@@ -53,4 +53,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to update this README with more specific information about your project, such as additional features, usage instructions, or any deployment information. Make sure to replace the placeholder URLs and information with your actual project details.
+Contact
+For any questions or inquiries, please contact [sharonrose.h53@gmail.com].
